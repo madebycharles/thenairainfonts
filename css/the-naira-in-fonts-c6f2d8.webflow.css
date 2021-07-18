@@ -189,6 +189,11 @@
   text-align: center;
 }
 
+.ph {
+  width: 250px;
+  height: 54px;
+}
+
 .image-3 {
   width: 157px;
   -webkit-align-self: center;
