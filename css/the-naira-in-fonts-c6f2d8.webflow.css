@@ -1066,6 +1066,11 @@
     padding-left: 10px;
   }
 
+.ph {
+  width: 150px;
+  height: 33px;
+}
+
   .heading {
     margin-right: 11px;
     margin-left: 11px;
